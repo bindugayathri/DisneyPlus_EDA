@@ -41,9 +41,11 @@ The primary dataset used is `disney_plus_titles.csv`, sourced from Kaggle.
     ```
 
 ## Future Work
-* Perform more in-depth text analysis on movie/TV show descriptions.
-* Explore cast and director contributions in more detail.
-* Investigate the relationship between content features and user ratings/popularity (if such data were available).
+* **Recommendation System Development:** Explore building a content recommendation system based on genres, content features, or hypothetical user preferences.
+* **External Data Integration:** Combine this dataset with external data sources, such as critic reviews, audience scores (e.g., IMDb, Rotten Tomatoes), or streaming performance data, to gain richer insights.
+* **Advanced Text Analysis:** Conduct more sophisticated Natural Language Processing (NLP) on movie/TV show descriptions, including topic modeling or entity extraction, to identify common themes or concepts.
+* **Time-Series Forecasting:** If new content addition rates or trends are a focus, consider time-series forecasting to predict future content growth.
+* **Interactive Dashboard:** Create an interactive dashboard (e.g., using Dash, Streamlit, or Tableau) to allow users to explore the data dynamically.
 
 ## Author
 [Bindu Gayathri](https://github.com/bindugayathri)
